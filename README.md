@@ -1,10 +1,8 @@
 <div align="center">
 
-```text
-  S H R I D H A R   U D A Y A G I R I
-  ────────────────────────────────────
-  COMPUTER SCIENCE · SYSTEMS · ML · COMPUTER VISION
-```
+<p align="center">
+  <img src="assets/githubhero.png" width="100%" alt="Shridhar Udayagiri — I am burdened with glorious purpose." />
+</p>
 
 **Building systems. Understanding how they fail. Making them better.**
 
