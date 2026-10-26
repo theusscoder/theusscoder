@@ -64,8 +64,8 @@ A ground-to-air visual target acquisition and tracking system combining computer
 ## Connect
 
 - GitHub: [@theusscoder](https://github.com/theusscoder)
-- LinkedIn: [Add your profile URL](https://www.linkedin.com/)
-- Email: `YOUR_EMAIL@example.com` *(replace with your preferred public email)*
+- LinkedIn: [Shridhar Udayagiri](https://www.linkedin.com/in/shridhar-udayagiri/)
+- Email: `theusscode@gmail.com` 
 
 ---
 
