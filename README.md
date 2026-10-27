@@ -69,4 +69,4 @@ A ground-to-air visual target acquisition and tracking system combining computer
 
 ---
 
-<sub>THEUSSCODER / ENGINEERING NOTES · Built deliberately, kept simple.</sub>
+
