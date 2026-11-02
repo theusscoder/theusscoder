@@ -4,7 +4,7 @@
   <img src="assets/githubhero.png" width="100%" alt="Shridhar Udayagiri — I am burdened with glorious purpose." />
 </p>
 
-**Building systems. Understanding how they fail. Making them better.**
+****
 
 [Selected Work](#selected-work) · [Technical Inventory](#technical-inventory) · [Activity Log](#activity-log) · [Connect](#connect)
 
